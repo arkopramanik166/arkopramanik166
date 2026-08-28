@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="380" viewBox="0 0 490 380">
+<rect width="490" height="380" rx="14" fill="#0d1117" stroke="#30363d"/>
+<circle cx="22" cy="22" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="22" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="22" r="6" fill="#27c93f"/>
+<text x="88" y="28" fill="#8b949e" font-family="monospace" font-size="14">arko@github:~</text>
+<text x="24" y="65" fill="#39d353" font-family="monospace" font-size="16">$ ./profile</text>
+<text x="24" y="91" fill="#f0f6fc" font-family="monospace" font-size="20" font-weight="700">ARKO PRAMANIK</text>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.45s" fill="freeze"/>
+<text x="24" y="122" fill="#39d353" font-family="monospace" font-size="13">ROLE      </text>
+<text x="112" y="122" fill="#c9d1d9" font-family="monospace" font-size="13">AI/ML Engineer in the making</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.45s" fill="freeze"/>
+<text x="24" y="154" fill="#39d353" font-family="monospace" font-size="13">LANG      </text>
+<text x="112" y="154" fill="#c9d1d9" font-family="monospace" font-size="13">C++ · Python · SQL</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.45s" fill="freeze"/>
+<text x="24" y="186" fill="#39d353" font-family="monospace" font-size="13">AI        </text>
+<text x="112" y="186" fill="#c9d1d9" font-family="monospace" font-size="13">PyTorch · Scikit-learn</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.45s" fill="freeze"/>
+<text x="24" y="218" fill="#39d353" font-family="monospace" font-size="13">BACKEND   </text>
+<text x="112" y="218" fill="#c9d1d9" font-family="monospace" font-size="13">FastAPI · REST APIs</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.45s" fill="freeze"/>
+<text x="24" y="250" fill="#39d353" font-family="monospace" font-size="13">SYSTEMS   </text>
+<text x="112" y="250" fill="#c9d1d9" font-family="monospace" font-size="13">Linux · Docker · Git</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.45s" fill="freeze"/>
+<text x="24" y="282" fill="#39d353" font-family="monospace" font-size="13">CLOUD     </text>
+<text x="112" y="282" fill="#c9d1d9" font-family="monospace" font-size="13">AWS</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.45s" fill="freeze"/>
+<text x="24" y="314" fill="#39d353" font-family="monospace" font-size="13">FOCUS     </text>
+<text x="112" y="314" fill="#c9d1d9" font-family="monospace" font-size="13">AI Systems · Agentic AI</text>
+</g>
+<text x="24" y="360" fill="#8b949e" font-family="monospace" font-size="12">build → measure → ship → repeat</text>
+</svg>

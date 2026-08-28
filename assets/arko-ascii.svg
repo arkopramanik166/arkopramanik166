@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="480" viewBox="0 0 576 480">
+<rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+<g fill="#c9d1d9" font-family="monospace" font-size="12" xml:space="preserve">
+<text x="8" y="14">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.000s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="26">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.055s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="38">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.110s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="50">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.165s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="62">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.220s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="74">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.275s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="86">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%%<animate attributeName="opacity" from="0" to="1" begin="0.330s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="98">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%<animate attributeName="opacity" from="0" to="1" begin="0.385s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="110">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="0.440s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="122">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="0.495s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="134">@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@%@@@@@@@@@@@@@@@@@@@@%@@@%%%%%%%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="0.550s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="146">@@@@@@@@@@@@@@@@@@@@@@@@@%%%#****s%@@@@@@@@@@@@@@@@@@@@@@%%%%%%@@%%%%%%@<animate attributeName="opacity" from="0" to="1" begin="0.605s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="158">@@@%%@@@@@@@@@@@@@@@@@@@@@%*=::`-+*s%%@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="0.660s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="170">%%%*:*@@@@@@@@@@@@@@@@@@@s====:-=+++c=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.715s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="182">#s*c*=-=cs#@@@@@@@@@@@@@@@+-::-=+--+ss@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.770s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="194">s*++=-=+c#%@@@%#@@@@@@@@@@@*::--+==*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.825s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="206">*=+==+***s@@@@%#@@@@@@@@@@@#=---=+*css#@@@@%#@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.880s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="218">***+-:=++c%c##ss%#c+#@@%###c*---===+*cscsss#%%@@@%@@@@@@@@@@%@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.935s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="230">scsc: -*+*%cs++c#s+-csscc*cc+-``:`:ccsccccccss#%%#@%#%@@@@@#@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.990s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="242">@@@@s*c######ss%%#c********cc-:```*ccc*cccc**cccss@%#%%@@#s*#%@@@@@@@#cs<animate attributeName="opacity" from="0" to="1" begin="1.045s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="254">@@@@@@@@@@@@@@@@%c*+********c*:``-c*cc***c**cccccc#@@@@@@#s#%%%@@@@@%s%@<animate attributeName="opacity" from="0" to="1" begin="1.100s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="266">@@@@@@@@@@@@@@@@s**++**+*+****+:`*c*******ccccccccc%@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.155s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="278">@@@@@@@@@@@@@@@%c***c**+++++**+=+s********ccccsccccs%@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.210s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="290">@@@@@@@@@@@@@@@s***css**++++*****+*******cccs#scccccc%@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.265s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="302">@@@@@@@@@@@@@@#c***cs%c***++*************cccs%#ccccccc#@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.320s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="314">@@@@@@@@@@@@@@#ccccc#@c***********c******ccc#@@#ccccccs@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.375s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="326">@@@@@@@@@@@@@@#cccss%@c************cc***ccccs%@@#cscsss@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.430s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="338">@@@@@@@@@@@@@@@cc*ccs@s+*************cc*c*ccs@%#%#sccss%@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.485s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="350">%%#%%##@@@@@@@@%cc*cc#s+***c**********c***csss+*sscccss#%##%%%@@%@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.540s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="362">++==++=+***cs###sccccc*****c*******c***c**ccc**sscccss++++++++**+s#%@@@@<animate attributeName="opacity" from="0" to="1" begin="1.595s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="374">*++=++=**++++===++ccc***************cc****cccssssscsc*++**++******+*ccs%<animate attributeName="opacity" from="0" to="1" begin="1.650s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="386">c***+++*+++++++++++c#s****c**cc****ccc***ccccs##sssc***++****+*cc*******<animate attributeName="opacity" from="0" to="1" begin="1.705s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="398">***********+**++*+***c*cccc**ccc***ccccc**cccccss#s*csssssssc*cccccccsss<animate attributeName="opacity" from="0" to="1" begin="1.760s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="410">cc****c***+cc*++**+**sccccccccccc**cccccc*ccccssss**cs#ssss#ssscsssccc#s<animate attributeName="opacity" from="0" to="1" begin="1.815s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="422">s#c*ccc****ccc*++***ccccccccccccccccccccc*cccc#c*ss**ssccscss##ssssccccc<animate attributeName="opacity" from="0" to="1" begin="1.870s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="434">c%scccc*******c***cccsscccccccccccccccccccccccs*ccsscccccccsssssc#sccscc<animate attributeName="opacity" from="0" to="1" begin="1.925s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="446">*ssc*c****cc**c***cccsssccccccccccccccccccccsc#ccccc#scccssssssscscscs##<animate attributeName="opacity" from="0" to="1" begin="1.980s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="458">ssscc*c****cc**ccc*ccssscsccccccccccccccccccss##ss#*sscs%#sssscccc*cccsc<animate attributeName="opacity" from="0" to="1" begin="2.035s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="470">cscccc*******+***+*s#%ssssccccccccccccccccccccs@scsc*ccssss###s#%##sccc*<animate attributeName="opacity" from="0" to="1" begin="2.090s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="482">cccc*********+******s@sssscccccccccccccccccsss#%c+***c*csssss#s##s#scss#<animate attributeName="opacity" from="0" to="1" begin="2.145s" dur="0.20s" fill="freeze"/></text>
+</g></svg>
