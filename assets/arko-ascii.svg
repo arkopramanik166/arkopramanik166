@@ -12,7 +12,7 @@
 <text x="8" y="110">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="0.440s" dur="0.20s" fill="freeze"/></text>
 <text x="8" y="122">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="0.495s" dur="0.20s" fill="freeze"/></text>
 <text x="8" y="134">@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@%@@@@@@@@@@@@@@@@@@@@%@@@%%%%%%%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="0.550s" dur="0.20s" fill="freeze"/></text>
-<text x="8" y="146">@@@@@@@@@@@@@@@@@@@@@@@@@%%%#****s%@@@@@@@@@@@@@@@@@@@@@@%%%%%%@@%%%%%%@<animate attributeName="opacity" from="0" to="1" begin="0.605s" dur="0.20s" fill="freeze"/></text>
+<text x="8" y="146">@@@@@@@@@@@@@@@@@@@@@@@@@%%%+*-*--s%-@@@@@@@@@@@@@@@@@@@@@@%%%%%%@@%%%%%%@<animate attributeName="opacity" from="0" to="1" begin="0.605s" dur="0.20s" fill="freeze"/></text>
 <text x="8" y="158">@@@%%@@@@@@@@@@@@@@@@@@@@@%*=::`-+*s%%@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="0.660s" dur="0.20s" fill="freeze"/></text>
 <text x="8" y="170">%%%*:*@@@@@@@@@@@@@@@@@@@s====:-=+++c=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.715s" dur="0.20s" fill="freeze"/></text>
 <text x="8" y="182">#s*c*=-=cs#@@@@@@@@@@@@@@@+-::-=+--+ss@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.770s" dur="0.20s" fill="freeze"/></text>
