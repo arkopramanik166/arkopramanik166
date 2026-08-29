@@ -15,11 +15,11 @@ Building practical AI systems, backend infrastructure, and eventually agentic AI
 
 <table>
 <tr>
-<td valign="top" width="42%">
-<img src="./assets/arko-ascii.svg" alt="Animated ASCII portrait" width="360"/>
-</td>
-<td valign="top" width="58%">
-<img src="./assets/info-card.svg" alt="Arko's developer profile" width="490"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="48%" />
+  <img src="assets/info-card.svg" width="48%" />
+</p>
+
 </td>
 </tr>
 </table>
