@@ -1723,7 +1723,7 @@
     },
     {
       "date": "2026-08-03",
-      "level": 4,
+      "level": 1,
       "count": 0
     },
     {
@@ -1848,6 +1848,11 @@
     },
     {
       "date": "2026-08-28",
+      "level": 2,
+      "count": 0
+    },
+    {
+      "date": "2026-08-29",
       "level": 4,
       "count": 0
     }
@@ -1857,5 +1862,5 @@
   "longest_streak": 0,
   "best_day": "2025-08-24",
   "best_day_count": 0,
-  "generated_at": "2026-08-28"
+  "generated_at": "2026-08-29"
 }
