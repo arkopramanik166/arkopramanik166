@@ -2,41 +2,6 @@
   "username": "arkopramanik166",
   "days": [
     {
-      "date": "2025-10-19",
-      "level": 1,
-      "count": 0
-    },
-    {
-      "date": "2025-10-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-22",
-      "level": 1,
-      "count": 0
-    },
-    {
-      "date": "2025-10-23",
-      "level": 1,
-      "count": 0
-    },
-    {
-      "date": "2025-10-24",
-      "level": 2,
-      "count": 0
-    },
-    {
-      "date": "2025-10-25",
-      "level": 2,
-      "count": 0
-    },
-    {
       "date": "2025-10-26",
       "level": 1,
       "count": 0
@@ -1853,6 +1818,11 @@
     },
     {
       "date": "2026-10-24",
+      "level": 1,
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
       "level": 0,
       "count": 0
     }
@@ -1860,7 +1830,7 @@
   "total": 0,
   "current_streak": 0,
   "longest_streak": 0,
-  "best_day": "2025-10-19",
+  "best_day": "2025-10-26",
   "best_day_count": 0,
-  "generated_at": "2026-10-24"
+  "generated_at": "2026-10-25"
 }
